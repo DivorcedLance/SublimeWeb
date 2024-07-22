@@ -4,9 +4,7 @@ import { CodeArea } from './components/CodeArea'
 function App() {
 
   return (
-    <>
       <CodeArea />
-    </>
   )
 }
 
